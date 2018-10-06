@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class vowel 
 {
-  public static void main(String[ ] arg)
+  public static void main(String args[ ])
 {
 boolean isVowel=false;
 Scanner sc=new Scanner(System.in);
