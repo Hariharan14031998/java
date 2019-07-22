@@ -11,7 +11,7 @@ while(num > 0)
 num = num / 10;
 Count = Count + 1; 
 }
-System.out.println( +Count);
+System.out.println(+Count);
 }
 }
 
