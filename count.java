@@ -5,7 +5,6 @@ public static void main(String[] args)
 {
 int num, Count=0;
 Scanner sc = new Scanner(System.in);		
-System.out.println("\n Please Enter any Number: ");
 num = sc.nextInt();
 while(num > 0) 
 {
